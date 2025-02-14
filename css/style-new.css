@@ -227,8 +227,8 @@ header{background:#f6f7fb;position:fixed;top:0;z-index:1000!important}
 /*=====================================================================*/
 /* Less content Blue Icon box section css*/
 /*=====================================================================*/
-.treatment_all_comm_div.blue_icon_box_section_less_content{margin-top:50px}
-.treatment_all_comm_div.blue_icon_box_section_less_content .container{padding:40px;background-color:#e0f3ff;border-radius:20px}
+.treatment_all_comm_div.blue_icon_box_section_less_content{margin-top:40px}
+.treatment_all_comm_div.blue_icon_box_section_less_content .container{border-radius:20px}
 .treatment_all_comm_div.blue_icon_box_section_less_content .icon_box_why{width:56px;height:56px;padding:10px;margin-right:12px;background-color:#0c4679;border-radius:6px}
 .treatment_all_comm_div.blue_icon_box_section_less_content p{width:85%;line-height:normal;font-size:18px!important;font-weight:300;line-height:normal;margin-bottom:0}
 .treatment_all_comm_div.blue_icon_box_section_less_content p span{font-size:24px!important;font-weight:600}
@@ -238,7 +238,7 @@ header{background:#f6f7fb;position:fixed;top:0;z-index:1000!important}
 }
 @media (max-width:600px){
 .treatment_all_comm_div.blue_icon_box_section_less_content{margin-top:30px}
-.treatment_all_comm_div.blue_icon_box_section_less_content .container{padding:30px 15px}
+/*.treatment_all_comm_div.blue_icon_box_section_less_content .container{padding:30px 15px}*/
 .treatment_all_comm_div.blue_icon_box_section_less_content p{width:85%}
 .treatment_all_comm_div.blue_icon_box_section_less_content p span{font-size:18px!important;font-weight:600}
 }
